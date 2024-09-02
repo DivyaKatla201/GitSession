@@ -1,1 +1,2 @@
 This is first commit from remote to local
+to check fetch command
